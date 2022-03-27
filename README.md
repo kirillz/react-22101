@@ -178,12 +178,6 @@ export default class TopicBrowser extends Component {
 
 ### Инструктаж
 
-- Create a basic outline for each topic component ( the same exact way we did the `TopicBrowser` component ):
-  - Make sure the name of the class is the same name as the file.
-  - Have the component render a `<p>` element saying the name of the component.
-- Open `src/components/TopicBrowser/TopicBrowser.js`.
-- Import all the topic files from `src/components/Topics` into `src/components/TopicBrowser/TopicBrowser.js`.
-- Render a parent `div` element containing all of the Topic components.
 - Создайте базовую схему для каждого компонента темы (точно так же, как мы делали компонент `TopicBrowser`):
   - Убедитесь, что имя класса совпадает с именем файла.
   - Пусть компонент отображает элемент `<p>`, отображающий имя компонента.
