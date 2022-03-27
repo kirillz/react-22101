@@ -20,7 +20,7 @@
 
 ## Установка
 
-- `Fork` или `clone` этот репозиторий к себе на комп.
+- `Fork` или `clone` этот репозиторий к себе на комп. `git clone https://github.com/kirillz/react-22101.git`
 - `cd` в директорию с проектом.
 - Запустите команду `npm install` или `npm i` или `yarn install` в зависимости от предпочтений.
 - Затем когда `npm install` завершит работу, запустите `npm start` или `yarn start` .
